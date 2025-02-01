@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Akseli Närhi</h1>
 
-## 17-years-old software developer student from Finland. Passionate about technology</h3>
+## 19-years-old software developer student from Finland. Passionate about technology</h3>
 
 - 🌱 I’m currently learning **.NET framework**
 
